@@ -1,0 +1,7 @@
+name: ToxiWelcome
+author: Toxi
+description: Сообщение при заходе игрока
+website: nightloon.fun
+version: '1.0-SNAPSHOT'
+main: com.main.ToxiWelcome
+api-version: '1.16'
